@@ -1,10 +1,10 @@
 body {
-    background-image: url(3.1.jpg);
+    background-image: url(4,2.jpg);
     background-size: auto;
 }
 
 .menu li {
-    font style: italic; font size: 20px; list style type: none;
+    font-style: italic; font size: 20px; list style type: none;
 }
 
 .menu li a {
@@ -43,7 +43,7 @@ li {
 }
 
 .h {
-    color: white
+    color: white;
 }
 
 .p {
@@ -57,8 +57,10 @@ li {
 }
 
 .a {
-    color: darkorange;
+    color:darkgreen;
     text-decoration: none;
+     font-size:150%;
+    
 }
 
 .A {
@@ -89,67 +91,114 @@ li {
     text-decoration: none;
 }
 
-.block1 {
-    width: 100px;
-    padding: 5px;
-    padding-right: 5px;
-    float: left;
-}
-
-.block2 {
-    width: 600px;
-    border: 20px;
-    margin: auto;
-    padding: 10px;
-    float: inherit;
-}
-
-.blockmenu {
-    height: 900px;
-    width: 150px;
-    float: left;
-}
-
-.container {
-    height: 500px;
-    width: auto;
-}
-
-.footer {
-    height: 40px;
-    width: 200px;
-    float: right;
-}
-
-.t {
-    height: 50px;
-    width: auto;
-}
 
 .img {
     background-image: url(bf1.jpg);
-    background-size: 100%;
+    background-size: cover;
 }
 
 
-
-.cg {height: 350px;
-    width: 350px;
-    float: left
-    
-}
-
-.container2 {
-    height: 500px;
-    width: 100px;
-}
 
 .img2 {
      background-image: url(gta.jpg);
-    background-size: 100%;
+    background-size: cover;
 }
 .img3{
-     background-image: url(cs.jpg);
-    background-size: 100%;
+     background-image: url(cs1.jpg);
+    background-size: cover;
 }
+
+.header {
+    height: 80px;
+    width: auto;
+    
+}
+
+.container {
+     margin: 30px auto;
+            width: auto;
+            height: auto;
+}
+.logo {
+    width: 80px;
+    height: 80px;
+    
+    left: 10px;
+    float: left;
+}
+
+.name {
+   margin-left: 500px;
+}
+
+.bar {
+    float: left;
+    width: 200px;
+}
+.contant {
+    margin-left: 200px;
+    margin-right: 250px;
+}
+
+.footer {
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+.catalog {
+  float: left; 
+    width: 350px; 
+    height: 350px;
+}
+
+.bar2 {
+    float: right;
+    width: 200px;
+}
+
+
+.img4 {
+    background-image: url(/img/ARMA-3.png);
+    background-size: cover;
+}
+
+
+.img5 {
+    background-image: url(/img/logopr.jpg);
+    background-size: cover;
+}
+
+.img6 {
+    background-image: url(/img/division.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
